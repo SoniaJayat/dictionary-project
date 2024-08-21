@@ -13,6 +13,7 @@ export default function App() {
             <img
               src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/140/380/original/blue_book.png?1724248649"
               className="dictionary-logo img-fluid"
+              alt="dictionary-logo"
             />
           </h1>
         </div>
